@@ -7,7 +7,7 @@ from io import BytesIO
 
 from fastai.vision import *
 
-model_file_url = 'https://drive.google.com/open?id=1p9nd9s2GL1P8RnzyKRJNWSOIrTrfgbFr'
+model_file_url = 'https://drive.google.com/uc?export=download&id=1MZ2QrdOhRRmOYnz9wgmlNWaMfvzYLVBX'
 model_file_name = 'py_torch_model.pt.h5'
 classes = ['pneumonia', 'non-pneumonia']
 path = Path(__file__).parent
